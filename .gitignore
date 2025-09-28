@@ -51,3 +51,4 @@
 *.bcf
 *.pyg
 build/
+Report/
