@@ -1,0 +1,58 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{labmanual}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=76917b0e0a753c85ab444d2d952fa66b}{%
+           family={Isaac},
+           familyi={I\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Edmonton}%
+      }
+      \list{publisher}{1}{%
+        {University of Alberta, Department of Physics}%
+      }
+      \strng{namehash}{76917b0e0a753c85ab444d2d952fa66b}
+      \strng{fullhash}{76917b0e0a753c85ab444d2d952fa66b}
+      \strng{fullhashraw}{76917b0e0a753c85ab444d2d952fa66b}
+      \strng{bibnamehash}{76917b0e0a753c85ab444d2d952fa66b}
+      \strng{authorbibnamehash}{76917b0e0a753c85ab444d2d952fa66b}
+      \strng{authornamehash}{76917b0e0a753c85ab444d2d952fa66b}
+      \strng{authorfullhash}{76917b0e0a753c85ab444d2d952fa66b}
+      \strng{authorfullhashraw}{76917b0e0a753c85ab444d2d952fa66b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lab Manual PHYS 124}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
